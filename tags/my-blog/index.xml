@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>my blog on Timo Sarkar</title><link>https://hyperupcall.github.io/blog/tags/my-blog/</link><description>Recent content in my blog on Timo Sarkar</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2020 17:58:23 -0800</lastBuildDate><atom:link href="https://hyperupcall.github.io/blog/tags/my-blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Unveiling yet another iteration of my hugo blog</title><link>https://hyperupcall.github.io/blog/posts/unveiling-yet-another-iteration-of-my-hugo-blog/</link><pubDate>Mon, 27 Jan 2020 17:58:23 -0800</pubDate><guid>https://hyperupcall.github.io/blog/posts/unveiling-yet-another-iteration-of-my-hugo-blog/</guid><description>Do not mind this content here. I am trying out some katex equations
+(print &amp;#34;hello, world&amp;#34;) $$ k(\varphi) = \varphi - 1 $$
+$$ n(\varphi) = z - \varphi $$
+$$ n(\varphi, z) = z - \varphi $$
+$$ F(z) = Fib(z) = \sum_{\varphi=1}^{z_{end}\ =\ round(\frac{z}{2})} {_{n(\varphi, z)\ =\ z - \varphi}}C _{k(\varphi)\ =\ \varphi - 1} $$
+$$ F(z) = \sum_{\varphi=1}^{round(\frac{z}{2})}{_{z - \varphi}}C _{\varphi - 1} $$</description></item></channel></rss>
